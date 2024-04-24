@@ -53,4 +53,4 @@ please write a summary of this research consisting of research problems, methods
 
 
 ## Closing
-hopefully this writing is useful
+I hope this article is useful, keep using your research instincts in building research, AI is only a complement so that your work becomes practical and efficient.
