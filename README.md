@@ -32,8 +32,7 @@ By using your univeristy email you can subscribe for the [Student Plans](https:/
 
 Unlock the Full Potential of Your Documents With [Humata](https://www.humata.ai/?via=humata-signup), you’re not just reading faster; you’re working smarter. [Humata](https://www.humata.ai/?via=humata-signup) Cutting-edge PDF AI transforms how you interact with documents, providing instant summaries, insightful comparisons, and rapid answers to your queries.
 
-## How to Use [Humata](https://www.humata.ai/?via=apri)
-
+## How to Use [Humata](https://www.humata.ai/?via=humata-signup)
 Once you subscribe, you can interact with  [Humata](https://www.humata.ai/?via=humata-signup), although there is a free version, but it is limited to 60 pages and 10 answers, which is very limited for your research purposes.
 
 After you login to your account, you can upload your pdf document, wait for the upload process to complete, after the upload process is complete and there is an Ask button on the right, then you can already give a query or question to [Humata](https://www.humata.ai/?via=humata-signup).
@@ -49,7 +48,7 @@ After you login to your account, you can upload your pdf document, wait for the 
 
 Or you can ask your [Humata](https://www.humata.ai/?via=humata-signup) to summarise the paper you read, for example:
 
-please write a summary of this research consisting of research problems, methods used, limitations of this research, results obtained and future work from this research, please make it in three paragraphs.
+**Please write a summary of this research consisting of research problems, methods used, limitations of this research, results obtained and future work from this research, please make it in three paragraphs.**
 
 
 ## Closing
