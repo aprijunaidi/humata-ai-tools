@@ -48,7 +48,7 @@ After you login to your account, you can upload your pdf document, wait for the 
 
 Or you can ask your [Humata](https://www.humata.ai/?via=humata-signup) to summarise the paper you read, for example:
 
-**Please write a summary of this research consisting of research problems, methods used, limitations of this research, results obtained and future work from this research, please make it in three paragraphs.**
+**Please write a summary of this research consisting of research problems, methods used, limitations of this research, results obtained and future work, please make it in three paragraphs.**
 
 
 ## Closing
