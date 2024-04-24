@@ -29,6 +29,8 @@ For more detailed information, you can visit their official [Humata](https://www
 
 ## Humata for Student
 By using your univeristy email you can subscribe for the [Student Plans](https://www.humata.ai/?via=humata-signup) by $ **1.99 per month**
+![humata student](https://github.com/aprijunaidi/humata-ai-tools/assets/7279471/d8719a7e-ed2a-48dd-abb1-37f56df29bdf)
+
 
 Unlock the Full Potential of Your Documents With [Humata](https://www.humata.ai/?via=humata-signup), you’re not just reading faster; you’re working smarter. [Humata](https://www.humata.ai/?via=humata-signup) Cutting-edge PDF AI transforms how you interact with documents, providing instant summaries, insightful comparisons, and rapid answers to your queries.
 
