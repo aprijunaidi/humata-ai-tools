@@ -38,4 +38,13 @@ Once you subscribe, you can interact with  [Humata](https://www.humata.ai/?via=a
 
 After you login to your account, you can upload your pdf document, wait for the upload process to complete, after the upload process is complete and there is an Ask button on the right, then you can already give a query or question to [Humata](https://www.humata.ai/?via=apri).
 
+## Questions that researchers often asked humata
+
+1. What is the problem with this research?
+2. What is the limitation of this research?
+3. Please provide me with the methodology used in this research.
+4. How do I collect the data?
+5. what is the result of this research?
+6. Please provide me with the future work of this research
+
 
