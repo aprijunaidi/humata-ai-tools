@@ -57,4 +57,8 @@ I hope this article is useful, keep using your research instincts in building re
 
 # Contribution :hammer_and_wrench:
 
-Please [create an Issue](https://github.com/aprijunaidi/humata-ai-tools/issues)) for any improvements, suggestions, or errors in the content.
+Please [create an Issue](https://github.com/aprijunaidi/humata-ai-tools/issues) for any improvements, suggestions, or errors in the content.
+
+## Visitor
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faprijunaidi%2Fhumata-ai-tools&countColor=%23263759)
