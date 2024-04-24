@@ -2,7 +2,7 @@
 ## Revolutionizing AI Tools for Academic Writing
 
 ![humata](https://github.com/aprijunaidi/humata-ai-tools/assets/7279471/c0b176a0-803d-4fa6-a688-02e55f696227)
-At Humata, we believe in empowering individuals and businesses with cutting-edge AI tools that are easy to use and accessible to all.
+At Humata, believe in empowering individuals and businesses with cutting-edge AI tools that are easy to use and accessible to all.
 
 **Asking is faster than skimming**
 
