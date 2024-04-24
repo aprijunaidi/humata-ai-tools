@@ -19,24 +19,24 @@ Humata AI offers several benefits for writing, particularly when dealing with le
   
 Overall, Humata AI enhances productivity by simplifying the management and comprehension of extensive documents.
 
-AI-Powered Tool: [Humata](https://www.humata.ai/?via=apri) is an AI-powered tool designed to help users understand, summarize, and extract information from documents.
+AI-Powered Tool: [Humata](https://www.humata.ai/?via=humata-signup) is an AI-powered tool designed to help users understand, summarize, and extract information from documents.
 - **Features:** It offers features like unlimited file uploads, citation highlights, unlimited questions, and embeds in webpages.
 
 - **Security:** Ensures data security with encrypted private cloud, role-based security, and upcoming single sign-on functionality.
 
 - **Pricing:** Offers various pricing plans, including a free tier, **student plan**, **expert plan**, and **team plan**, with the expert and team plans using the GPT 4.0 model1.
-For more detailed information, you can visit their official [Humata](https://www.humata.ai/?via=apri) website
+For more detailed information, you can visit their official [Humata](https://www.humata.ai/?via=humata-signup) website
 
 ## Humata for Student
-By using your univeristy email you can subscribe for the [Student Plans](https://www.humata.ai/?via=apri) by $ **1.99 per month**
+By using your univeristy email you can subscribe for the [Student Plans](https://www.humata.ai/?via=humata-signup) by $ **1.99 per month**
 
-Unlock the Full Potential of Your Documents With [Humata](https://www.humata.ai/?via=apri), you’re not just reading faster; you’re working smarter. [Humata](https://www.humata.ai/?via=apri) Cutting-edge PDF AI transforms how you interact with documents, providing instant summaries, insightful comparisons, and rapid answers to your queries.
+Unlock the Full Potential of Your Documents With [Humata](https://www.humata.ai/?via=humata-signup), you’re not just reading faster; you’re working smarter. [Humata](https://www.humata.ai/?via=humata-signup) Cutting-edge PDF AI transforms how you interact with documents, providing instant summaries, insightful comparisons, and rapid answers to your queries.
 
 ## How to Use [Humata](https://www.humata.ai/?via=apri)
 
-Once you subscribe, you can interact with  [Humata](https://www.humata.ai/?via=apri), although there is a free version, but it is limited to 60 pages and 10 answers, which is very limited for your research purposes.
+Once you subscribe, you can interact with  [Humata](https://www.humata.ai/?via=humata-signup), although there is a free version, but it is limited to 60 pages and 10 answers, which is very limited for your research purposes.
 
-After you login to your account, you can upload your pdf document, wait for the upload process to complete, after the upload process is complete and there is an Ask button on the right, then you can already give a query or question to [Humata](https://www.humata.ai/?via=apri).
+After you login to your account, you can upload your pdf document, wait for the upload process to complete, after the upload process is complete and there is an Ask button on the right, then you can already give a query or question to [Humata](https://www.humata.ai/?via=humata-signup).
 
 ## Questions that researchers often asked humata
 
@@ -47,7 +47,7 @@ After you login to your account, you can upload your pdf document, wait for the 
 5. what is the result of this research?
 6. Please provide me with the future work of this research
 
-Or you can ask your [Humata](https://www.humata.ai/?via=apri) to summarise the paper you read, for example:
+Or you can ask your [Humata](https://www.humata.ai/?via=humata-signup) to summarise the paper you read, for example:
 
 please write a summary of this research consisting of research problems, methods used, limitations of this research, results obtained and future work from this research, please make it in three paragraphs.
 
