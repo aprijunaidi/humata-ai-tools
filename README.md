@@ -34,4 +34,8 @@ Unlock the Full Potential of Your Documents With [Humata](https://www.humata.ai/
 
 ## How to Use [Humata](https://www.humata.ai/?via=apri)
 
-Once you subscribe, you can interact with humata, although there is a free version, but it is limited to 60 documents.
+Once you subscribe, you can interact with  [Humata](https://www.humata.ai/?via=apri), although there is a free version, but it is limited to 60 pages and 10 answers, which is very limited for your research purposes.
+
+After you login to your account, you can upload your pdf document, wait for the upload process to complete, after the upload process is complete and there is an Ask button on the right, then you can already give a query or question to [Humata](https://www.humata.ai/?via=apri).
+
+
