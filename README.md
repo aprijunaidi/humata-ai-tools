@@ -47,4 +47,10 @@ After you login to your account, you can upload your pdf document, wait for the 
 5. what is the result of this research?
 6. Please provide me with the future work of this research
 
+Or you can ask your [Humata](https://www.humata.ai/?via=apri) to summarise the paper you read, for example:
 
+please write a summary of this research consisting of research problems, methods used, limitations of this research, results obtained and future work from this research, please make it in three paragraphs.
+
+
+## Closing
+hopefully this writing is useful
